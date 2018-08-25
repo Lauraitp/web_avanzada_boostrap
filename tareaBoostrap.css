@@ -1,5 +1,4 @@
 
-
 body {
   font-family: 'Lato';
 }
@@ -24,8 +23,6 @@ section {
 
 
 
-
-
 .btn-xl {
   padding: 1rem 1.75rem;
   font-size: 1.25rem;
@@ -44,7 +41,7 @@ section {
   padding-bottom: 10px;
   font-weight: 700;
   font-family: 'Montserrat';
-  background-color: #2C3E50;
+  background-color: rgb(104, 207, 142);
 
 }
 
